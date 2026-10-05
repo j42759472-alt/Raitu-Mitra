@@ -1,0 +1,438 @@
+{
+  "common": {
+    "appName": "Raitu Mitra",
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "search": "Search",
+    "filter": "Filter",
+    "apply": "Apply",
+    "reset": "Reset",
+    "delete": "Delete",
+    "edit": "Edit",
+    "done": "Done",
+    "next": "Next",
+    "back": "Back",
+    "skip": "Skip",
+    "retry": "Retry",
+    "ok": "OK",
+    "yes": "Yes",
+    "no": "No",
+    "noResults": "No results found",
+    "error": "Something went wrong",
+    "offline": "You are offline",
+    "km": "km",
+    "rs": "₹",
+    "perDay": "/day",
+    "years": "years",
+    "viewAll": "View All"
+  },
+  "landing": {
+    "nativeName": "రైతు మిత్ర",
+    "headline": "Connect. Hire. Grow.",
+    "support": "The agriculture marketplace for farmers, laborers, and rural businesses — hire workers nearby, rent equipment, buy farm needs, and track government schemes in English or Telugu.",
+    "getStarted": "Get started",
+    "signIn": "Sign in",
+    "seeHow": "See how it works",
+    "problem": {
+      "kicker": "Why it exists",
+      "title": "Farm work still runs on word of mouth",
+      "lead": "Finding reliable laborers, equipment, and buyers should not depend on who you know in the village. Raitu Mitra brings hiring and farm commerce into one phone-first place.",
+      "points": [
+        "Laborers struggle to find consistent work beyond informal networks",
+        "Farmers have no clear way to discover skilled, available workers nearby",
+        "Wages, skills, and work history stay opaque",
+        "Language and digital literacy keep many platforms out of reach"
+      ]
+    },
+    "audience": {
+      "kicker": "Who it is for",
+      "title": "Built for both sides of the field",
+      "farmer": {
+        "title": "Farmers & landowners",
+        "role": "రైతు / భూ స్వామి",
+        "points": [
+          "Search laborers within a set radius on map or list",
+          "Filter by skill, wage, rating, and experience",
+          "Send hire requests with dates, wage, and location",
+          "Pay via UPI or Cashfree, then rate the work"
+        ]
+      },
+      "worker": {
+        "title": "Farm laborers",
+        "role": "కూలీ / పనివాడు",
+        "points": [
+          "Showcase 30+ skills with proficiency levels",
+          "Set wage range and toggle availability in one tap",
+          "Accept or reject job requests as they come in",
+          "Track earnings, chat with farmers, and build ratings"
+        ]
+      }
+    },
+    "how": {
+      "kicker": "How it works",
+      "title": "From signup to payday",
+      "register": {
+        "title": "Create your profile",
+        "body": "Sign in with your phone, choose farmer, laborer, or both, and add village or farm details."
+      },
+      "find": {
+        "title": "Find the right match",
+        "body": "Browse nearby workers, equipment, and listings — or let smart matching suggest a fit."
+      },
+      "hire": {
+        "title": "Hire and coordinate",
+        "body": "Send a request, chat in-app, and track the job from accept through completion."
+      },
+      "pay": {
+        "title": "Pay and rate",
+        "body": "Settle with UPI or Cashfree, keep a payment history, and leave a rating for next time."
+      }
+    },
+    "features": {
+      "kicker": "What you can do",
+      "title": "One marketplace for farm life",
+      "lead": "Workforce, equipment, inputs, and schemes — not five different apps.",
+      "workforce": {
+        "title": "Workforce hiring",
+        "body": "Radius search with GPS, AI smart match, and full hire tracking.",
+        "points": [
+          "Default 25 km search, adjustable from 5–50 km",
+          "Skills across field work, livestock, equipment, and more",
+          "Status tracking from request to done"
+        ]
+      },
+      "equipment": {
+        "title": "Equipment rental",
+        "body": "Tractors, threshers, sprayers, and harvesters — with or without an operator.",
+        "points": [
+          "Browse nearby machines with rates and photos",
+          "Book dates and get owner acceptance",
+          "Bundle tractor + driver in one request"
+        ]
+      },
+      "marketplace": {
+        "title": "Farm marketplace",
+        "body": "Buy and sell groceries, inputs, property listings, and transport when you need them.",
+        "points": [
+          "Category browse and search built for low bandwidth",
+          "Orders with chat and PIN completion",
+          "Platform Fee and Pay Now for smoother checkout"
+        ]
+      },
+      "schemes": {
+        "title": "Government schemes",
+        "body": "Discover schemes that matter to your farm and keep a personal shortlist.",
+        "points": [
+          "Browse in English or Telugu",
+          "Save schemes you care about",
+          "Stay informed without hunting across portals"
+        ]
+      }
+    },
+    "skills": {
+      "kicker": "Skill coverage",
+      "title": "30+ skills across five categories",
+      "lead": "Laborers pick what they do best. Farmers filter for exactly what the season needs.",
+      "field": {
+        "name": "Field work",
+        "examples": "Ploughing, sowing, weeding, harvesting, irrigation, transplanting, land leveling"
+      },
+      "animals": {
+        "name": "Animal husbandry",
+        "examples": "Feeding, milking, herding, veterinary assistance, poultry care"
+      },
+      "equipment": {
+        "name": "Equipment operation",
+        "examples": "Tractor, thresher, pump, harvester, and sprayer operation"
+      },
+      "postHarvest": {
+        "name": "Post-harvest",
+        "examples": "Sorting, packing, storage, transportation, drying and curing"
+      },
+      "specialized": {
+        "name": "Specialized",
+        "examples": "Organic farming, soil testing, nursery, drip irrigation, mushroom cultivation"
+      }
+    },
+    "field": {
+      "kicker": "Built for rural use",
+      "title": "Designed for the phone in your pocket",
+      "bilingual": {
+        "title": "English & Telugu",
+        "body": "Switch language anytime. Screens, notifications, and help follow your choice."
+      },
+      "nearby": {
+        "title": "Nearby by GPS",
+        "body": "PostGIS radius search finds workers and listings around your village or farm."
+      },
+      "chat": {
+        "title": "In-app chat",
+        "body": "Message about jobs and orders in real time, including image sharing."
+      },
+      "ai": {
+        "title": "AI assistant",
+        "body": "Smart matching and a chatbot for farm questions when you need a second opinion."
+      }
+    },
+    "cta": {
+      "title": "Start hiring and selling today",
+      "body": "Create a free account with your mobile number and join the Raitu Mitra marketplace."
+    },
+    "footer": {
+      "tagline": "Farmer's Friend — Connect. Hire. Grow.",
+      "features": "Features",
+      "how": "How it works"
+    }
+  },
+  "auth": {
+    "welcome": "Welcome to Raitu Mitra",
+    "tagline": "Your agriculture friend",
+    "enterPhone": "Enter your mobile number",
+    "phonePlaceholder": "10-digit mobile number",
+    "sendOtp": "Send OTP",
+    "enterOtp": "Enter OTP",
+    "otpSentTo": "OTP sent to {{phone}}",
+    "verify": "Verify",
+    "resendOtp": "Resend OTP",
+    "resendIn": "Resend in {{seconds}}s",
+    "invalidPhone": "Please enter a valid 10-digit mobile number",
+    "invalidOtp": "Please enter a valid 6-digit OTP",
+    "continue": "Continue",
+    "logout": "Logout",
+    "logoutConfirm": "Are you sure you want to logout?"
+  },
+  "language": {
+    "title": "Choose Language",
+    "subtitle": "Select your preferred language",
+    "changeLang": "Change Language"
+  },
+  "profile": {
+    "setup": "Set Up Profile",
+    "fullName": "Full Name",
+    "namePlaceholder": "Enter your name",
+    "photo": "Profile Photo",
+    "addPhoto": "Add Photo",
+    "changePhoto": "Change Photo",
+    "village": "Village",
+    "villagePlaceholder": "Enter your village",
+    "mandal": "Mandal / Taluka",
+    "mandalPlaceholder": "Enter your mandal",
+    "district": "District",
+    "districtPlaceholder": "Enter your district",
+    "state": "State",
+    "statePlaceholder": "Select your state",
+    "pincode": "Pincode",
+    "pincodePlaceholder": "Enter pincode",
+    "useLocation": "Use Current Location",
+    "locationDetected": "Location detected",
+    "verified": "Verified",
+    "rating": "Rating",
+    "memberSince": "Member since {{date}}",
+    "editProfile": "Edit Profile",
+    "mySkills": "My Skills",
+    "myRatings": "My Ratings",
+    "role": "Role",
+    "getLocation": "Get Current Location",
+    "locationFetched": "Location fetched successfully",
+    "nameRequired": "Name is required"
+  },
+  "skills": {
+    "title": "Select Your Skills",
+    "subtitle": "Choose the tasks you can do",
+    "selected": "{{count}} skills selected",
+    "proficiency": "Proficiency",
+    "beginner": "Beginner",
+    "intermediate": "Intermediate",
+    "expert": "Expert",
+    "cat_field_work": "Field Work",
+    "cat_animal_husbandry": "Animal Husbandry",
+    "cat_equipment_ops": "Equipment Operation",
+    "cat_post_harvest": "Post-Harvest",
+    "cat_specialized": "Specialized",
+    "ploughing": "Ploughing",
+    "sowing": "Sowing",
+    "weeding": "Weeding",
+    "harvesting": "Harvesting",
+    "irrigation": "Irrigation",
+    "transplanting": "Transplanting",
+    "leveling": "Land Leveling",
+    "feeding": "Feeding Animals",
+    "milking": "Milking",
+    "herding": "Herding",
+    "vet_assist": "Veterinary Assistance",
+    "poultry": "Poultry Care",
+    "tractor": "Tractor Driving",
+    "thresher": "Thresher Operation",
+    "pump_ops": "Pump Operation",
+    "harvester_ops": "Harvester Operation",
+    "sprayer_ops": "Sprayer Operation",
+    "sorting": "Sorting",
+    "packing": "Packing",
+    "storage": "Storage",
+    "transport": "Transportation",
+    "drying": "Drying / Curing",
+    "organic": "Organic Farming",
+    "pesticide": "Pesticide Spraying",
+    "soil_test": "Soil Testing",
+    "nursery": "Nursery Management",
+    "drip_irr": "Drip Irrigation",
+    "mushroom": "Mushroom Cultivation"
+  },
+  "home": {
+    "quickActions": "Quick Actions",
+    "greeting": "Namaste",
+    "welcomeBack": "Welcome back to Raitu Mitra",
+    "weather": "Sunny"
+  },
+  "search": {
+    "title": "Search",
+    "searchPlaceholder": "Search products, workers, equipment...",
+    "distance": "{{distance}} km away",
+    "adjustFilters": "Try adjusting your filters or increasing the search radius",
+    "mapView": "Map",
+    "listView": "List",
+    "sortBy": "Sort by",
+    "sortDistance": "Distance",
+    "sortRating": "Rating",
+    "sortWage": "Wage",
+    "filterSkills": "Skills",
+    "filterRating": "Minimum Rating",
+    "filterDistance": "Maximum Distance",
+    "filterWage": "Wage Range",
+    "filterExperience": "Minimum Experience",
+    "noResults": "No results found"
+  },
+  "hiring": {
+    "createRequest": "Create Hire Request",
+    "jobTitle": "Job Title",
+    "jobTitlePlaceholder": "e.g., Rice Harvesting",
+    "description": "Description",
+    "descriptionPlaceholder": "Describe the work in detail...",
+    "selectSkills": "Skills Required",
+    "startDate": "Start Date",
+    "endDate": "End Date (optional)",
+    "startTime": "Start Time",
+    "estimatedHours": "Estimated Hours",
+    "offeredWage": "Offered Wage (₹)",
+    "wageType": "Wage Type",
+    "daily": "Daily",
+    "hourly": "Hourly",
+    "fixed": "Fixed",
+    "includesFood": "Includes Food",
+    "includesTransport": "Includes Transport",
+    "workLocation": "Work Location",
+    "useCurrentLocation": "Use Current Location",
+    "sendRequest": "Send Hire Request",
+    "myJobs": "My Jobs",
+    "myHires": "My Hires",
+    "pending": "Pending",
+    "accepted": "Accepted",
+    "rejected": "Rejected",
+    "inProgress": "In Progress",
+    "completed": "Completed",
+    "paid": "Paid",
+    "cancelled": "Cancelled",
+    "disputed": "Disputed",
+    "accept": "Accept",
+    "reject": "Reject",
+    "markComplete": "Mark as Complete",
+    "cancelRequest": "Cancel Request",
+    "startWork": "Start Work",
+    "viewDetails": "View Details",
+    "hireAgain": "Hire Again",
+    "noJobs": "No jobs yet",
+    "noHires": "No hires yet"
+  },
+  "equipment": {
+    "title": "Equipment Rental",
+    "browse": "Browse Equipment",
+    "listMine": "My Equipment",
+    "addEquipment": "Add Equipment",
+    "name": "Equipment Name",
+    "type": "Equipment Type",
+    "brand": "Brand",
+    "model": "Model",
+    "dailyRate": "Daily Rate (₹)",
+    "hourlyRate": "Hourly Rate (₹)",
+    "withOperator": "With Operator",
+    "operatorCharge": "Operator Charge (₹/day)",
+    "photos": "Photos",
+    "addPhotos": "Add Photos",
+    "available": "Available",
+    "rented": "Currently Rented",
+    "bookNow": "Book Now",
+    "rentalDates": "Rental Dates",
+    "totalAmount": "Total Amount",
+    "confirmBooking": "Confirm Booking",
+    "myRentals": "My Rentals",
+    "noEquipment": "No equipment found nearby",
+    "tractor": "Tractor",
+    "thresher": "Thresher",
+    "sprayer": "Sprayer",
+    "harvester": "Harvester",
+    "pump": "Water Pump",
+    "cultivator": "Cultivator",
+    "other": "Other"
+  },
+  "payments": {
+    "pay": "Pay",
+    "payNow": "Pay Now",
+    "amount": "Amount",
+    "paymentMethod": "Payment Method",
+    "upi": "UPI",
+    "razorpay": "Card / Netbanking",
+    "cashfree": "UPI / Card",
+    "cash": "Cash",
+    "markAsCash": "Mark as Cash Payment",
+    "paymentSuccess": "Payment Successful!",
+    "paymentFailed": "Payment Failed",
+    "earnings": "My Earnings",
+    "totalEarnings": "Total Earnings",
+    "pendingPayments": "Pending Payments",
+    "paymentHistory": "Platform Fee",
+    "noPayments": "No payments yet"
+  },
+  "ratings": {
+    "rateWorker": "Rate Worker",
+    "rateLandowner": "Rate Landowner",
+    "overallRating": "Overall Rating",
+    "punctuality": "Punctuality",
+    "quality": "Work Quality",
+    "communication": "Communication",
+    "writeReview": "Write a review (optional)",
+    "reviewPlaceholder": "Share your experience...",
+    "submitRating": "Submit Rating",
+    "myRatings": "My Ratings",
+    "noRatings": "No ratings yet",
+    "stars": "{{count}} stars"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "noNotifications": "No notifications",
+    "markAllRead": "Mark all as read",
+    "newHireRequest": "New work request from {{name}}",
+    "hireAccepted": "{{name}} accepted your request",
+    "hireRejected": "{{name}} declined your request",
+    "workCompleted": "{{name}} marked work as complete",
+    "paymentReceived": "Payment of ₹{{amount}} received",
+    "newMessage": "New message from {{name}}",
+    "newRating": "You received a {{rating}}-star rating"
+  },
+  "settings": {
+    "title": "Settings",
+    "home": "Home",
+    "settings": "Settings",
+    "language": "Language",
+    "notifications": "Notification Preferences",
+    "privacy": "Privacy",
+    "help": "Help & Support",
+    "about": "About",
+    "version": "Version {{version}}",
+    "logout": "Logout",
+    "logoutConfirm": "Are you sure you want to logout?",
+    "deleteAccount": "Delete Account",
+    "deleteAccountConfirm": "This action cannot be undone. Are you sure?"
+  }
+}
